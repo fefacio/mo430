@@ -1,0 +1,501 @@
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 1416108, 'time': 33.21730964800008, 'reported_time': 3.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-1', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1416108, 'time': 39.82453998600067, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-1', 'beta': 2.1}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 1416108, 'time': 31.29122515400013, 'reported_time': 2.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-1', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1416108, 'time': 38.75594329999876, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-1', 'beta': 2.1}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 1416108, 'time': 29.902810872999908, 'reported_time': 1.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-1', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1416108, 'time': 38.68153938700016, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-1', 'beta': 2.1}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 1416108, 'time': 30.061988490999283, 'reported_time': 1.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-1', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1416108, 'time': 38.8713329229995, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-1', 'beta': 2.1}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 1416108, 'time': 30.507408192001094, 'reported_time': 2.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-1', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1416108, 'time': 39.48425155699988, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-1', 'beta': 2.1}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 1018014, 'time': 32.529980188999616, 'reported_time': 1.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-2', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1018014, 'time': 41.44121230900055, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-2', 'beta': 2.1}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 1018014, 'time': 33.538247328999205, 'reported_time': 1.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-2', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1018014, 'time': 41.511021102000086, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-2', 'beta': 2.1}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 1018014, 'time': 34.7213272959998, 'reported_time': 1.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-2', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1018014, 'time': 42.24283591099993, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-2', 'beta': 2.1}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 1018014, 'time': 32.38837764600066, 'reported_time': 1.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-2', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1018014, 'time': 40.08857380399968, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-2', 'beta': 2.1}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 1018014, 'time': 31.44834558399998, 'reported_time': 0.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-2', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1018014, 'time': 40.506762962999346, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-2', 'beta': 2.1}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 1279745, 'time': 32.38390224700015, 'reported_time': 1.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-3', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1279745, 'time': 42.623823492000156, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-3', 'beta': 2.1}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 1279745, 'time': 32.97408314700078, 'reported_time': 1.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-3', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1279745, 'time': 46.022799577000114, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-3', 'beta': 2.1}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 1279745, 'time': 33.29400593600076, 'reported_time': 1.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-3', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1279745, 'time': 46.66875238399916, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-3', 'beta': 2.1}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 1279745, 'time': 33.50993907600059, 'reported_time': 1.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-3', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1279745, 'time': 42.17878103899966, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-3', 'beta': 2.1}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 1279745, 'time': 32.97368443300002, 'reported_time': 1.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-3', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1279745, 'time': 41.97177280100004, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-3', 'beta': 2.1}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 531692, 'time': 67.56210077200012, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-1', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 530863, 'time': 35.17379840600006, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-1', 'beta': 2.7}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 531696, 'time': 70.85346448099881, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-1', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 530863, 'time': 35.3021420010009, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-1', 'beta': 2.7}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 531624, 'time': 67.22227037300036, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-1', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 530863, 'time': 35.95658477899997, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-1', 'beta': 2.7}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 531625, 'time': 66.25834700999985, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-1', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 530863, 'time': 34.59425538799951, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-1', 'beta': 2.7}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 531663, 'time': 66.26661721800156, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-1', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 530863, 'time': 35.51743962500041, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-1', 'beta': 2.7}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 516070, 'time': 67.2869156859997, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-2', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 515350, 'time': 36.757483386001695, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-2', 'beta': 2.7}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 516059, 'time': 66.1307108889996, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-2', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 515350, 'time': 35.216723537998405, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-2', 'beta': 2.7}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 516095, 'time': 65.79521413800103, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-2', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 515350, 'time': 36.477430271999765, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-2', 'beta': 2.7}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 516073, 'time': 66.29922599599922, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-2', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 515350, 'time': 34.17600426199897, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-2', 'beta': 2.7}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 516085, 'time': 66.0660614389999, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-2', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 515350, 'time': 35.053819417998966, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-2', 'beta': 2.7}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 525174, 'time': 68.67277639800159, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-3', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 524429, 'time': 34.90285091300029, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-3', 'beta': 2.7}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 525201, 'time': 66.72451526899931, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-3', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 524429, 'time': 34.57205303400042, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-3', 'beta': 2.7}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 525187, 'time': 65.58720680400074, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-3', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 524429, 'time': 35.26909068799978, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-3', 'beta': 2.7}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 525160, 'time': 65.82991744299943, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-3', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 524429, 'time': 34.56970124799955, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-3', 'beta': 2.7}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 525199, 'time': 65.53580243400029, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-3', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 524429, 'time': 34.26127073600037, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-3', 'beta': 2.7}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 589733, 'time': 61.4787024670004, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-1', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585225, 'time': 34.63990623300015, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-1', 'beta': 3.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 589796, 'time': 61.67314480999994, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-1', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585225, 'time': 34.961275272999046, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-1', 'beta': 3.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 589753, 'time': 60.6798859139999, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-1', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585225, 'time': 34.73272159099906, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-1', 'beta': 3.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 589803, 'time': 60.90656563199991, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-1', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585225, 'time': 34.15268277399991, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-1', 'beta': 3.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 590254, 'time': 67.60597060500004, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-1', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585225, 'time': 34.7478251779994, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-1', 'beta': 3.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 588960, 'time': 63.49003648699909, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-2', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584448, 'time': 35.399096557999655, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-2', 'beta': 3.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 588991, 'time': 63.1467391590013, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-2', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584448, 'time': 34.557313197999974, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-2', 'beta': 3.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 589088, 'time': 62.510725296999226, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-2', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584448, 'time': 35.52287717999934, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-2', 'beta': 3.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 589238, 'time': 63.589953949998744, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-2', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584448, 'time': 33.75622412899975, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-2', 'beta': 3.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 589167, 'time': 62.81848855000135, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-2', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584448, 'time': 33.82902624599956, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-2', 'beta': 3.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 591111, 'time': 62.689451438000106, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-3', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586568, 'time': 34.42795869300062, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-3', 'beta': 3.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 591237, 'time': 62.57809875900057, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-3', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586568, 'time': 34.521756776000984, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-3', 'beta': 3.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 591118, 'time': 61.378729423999175, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-3', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586568, 'time': 36.15970894699967, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-3', 'beta': 3.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 591575, 'time': 65.91962045100081, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-3', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586568, 'time': 34.13909207299912, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-3', 'beta': 3.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 591065, 'time': 61.772471924001366, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-3', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586568, 'time': 34.05044400599945, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-3', 'beta': 3.4}]
+
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 842548, 'time': 34.169710682000016, 'reported_time': 2.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-4', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 842548, 'time': 41.312866775, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-4', 'beta': 2.1}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 842548, 'time': 37.302032474999976, 'reported_time': 1.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-4', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 842548, 'time': 43.62228623699997, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-4', 'beta': 2.1}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 842548, 'time': 36.884337156000015, 'reported_time': 1.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-4', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 842548, 'time': 40.06174906299998, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-4', 'beta': 2.1}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 842548, 'time': 33.31065982999996, 'reported_time': 0.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-4', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 842548, 'time': 41.343025178999994, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-4', 'beta': 2.1}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 842548, 'time': 33.08933969999998, 'reported_time': 1.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-4', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 842548, 'time': 39.70243228199996, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-4', 'beta': 2.1}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 1388765, 'time': 32.73147143, 'reported_time': 4.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-5', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1388765, 'time': 44.20924260900006, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-5', 'beta': 2.1}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 1388765, 'time': 32.086011208999935, 'reported_time': 1.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-5', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1388765, 'time': 45.553142578999996, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-5', 'beta': 2.1}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 1388765, 'time': 31.050419498999986, 'reported_time': 1.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-5', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1388765, 'time': 41.38544886200009, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-5', 'beta': 2.1}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 1388765, 'time': 30.7237010099999, 'reported_time': 1.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-5', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1388765, 'time': 40.71005895799999, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-5', 'beta': 2.1}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 1388765, 'time': 31.283420761000002, 'reported_time': 3.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-5', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1388765, 'time': 39.42034421200003, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-5', 'beta': 2.1}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 1337147, 'time': 32.553914153999926, 'reported_time': 2.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-6', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1337147, 'time': 41.79338291499994, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-6', 'beta': 2.1}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 1337147, 'time': 30.684718522000026, 'reported_time': 1.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-6', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1337147, 'time': 43.604318283, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-6', 'beta': 2.1}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 1337147, 'time': 29.978731057000005, 'reported_time': 2.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-6', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1337147, 'time': 40.44094359399992, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-6', 'beta': 2.1}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 1337147, 'time': 29.600434016999998, 'reported_time': 1.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-6', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1337147, 'time': 39.35443238899984, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-6', 'beta': 2.1}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 1337147, 'time': 31.237105718000066, 'reported_time': 0.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-6', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1337147, 'time': 40.257835829999976, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-6', 'beta': 2.1}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 1401043, 'time': 30.949291895999977, 'reported_time': 1.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-7', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1401043, 'time': 39.83172534000005, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-7', 'beta': 2.1}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 1401043, 'time': 31.071494852999876, 'reported_time': 1.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-7', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1401043, 'time': 46.91932989099996, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-7', 'beta': 2.1}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 1401043, 'time': 32.05703991899986, 'reported_time': 3.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-7', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1401043, 'time': 40.02077285099995, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-7', 'beta': 2.1}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 1401043, 'time': 29.738439512000014, 'reported_time': 1.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-7', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1401043, 'time': 38.991662245999805, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-7', 'beta': 2.1}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 1401043, 'time': 30.045148444999995, 'reported_time': 2.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-7', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1401043, 'time': 37.797980270999915, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-7', 'beta': 2.1}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 1294583, 'time': 30.79999818200008, 'reported_time': 2.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-8', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1294583, 'time': 39.03665752400002, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-8', 'beta': 2.1}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 1294583, 'time': 30.287530014999902, 'reported_time': 0.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-8', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1294583, 'time': 40.097435872000005, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-8', 'beta': 2.1}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 1294583, 'time': 29.162721579999925, 'reported_time': 2.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-8', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1294583, 'time': 39.34183682900016, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-8', 'beta': 2.1}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 1294583, 'time': 29.874198006999904, 'reported_time': 0.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-8', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1294583, 'time': 38.59929739899985, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-8', 'beta': 2.1}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 1294583, 'time': 30.05157740599998, 'reported_time': 2.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-8', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1294583, 'time': 38.565900204999934, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-8', 'beta': 2.1}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 1344232, 'time': 30.935831415000166, 'reported_time': 3.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-9', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1344232, 'time': 39.296871180999915, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-9', 'beta': 2.1}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 1344232, 'time': 30.34897542900012, 'reported_time': 1.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-9', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1344232, 'time': 41.06214970000019, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-9', 'beta': 2.1}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 1344232, 'time': 29.561698002000412, 'reported_time': 2.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-9', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1344232, 'time': 39.68463065600008, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-9', 'beta': 2.1}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 1344232, 'time': 30.024713405000057, 'reported_time': 3.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-9', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1344232, 'time': 39.534058468999774, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-9', 'beta': 2.1}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 1344232, 'time': 30.384975726999983, 'reported_time': 2.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-9', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1344232, 'time': 44.29131901799974, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-9', 'beta': 2.1}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 1257295, 'time': 33.53295348199981, 'reported_time': 1.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-10', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1257295, 'time': 40.81918860199994, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-10', 'beta': 2.1}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 1257295, 'time': 31.445395485000063, 'reported_time': 1.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-10', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1257295, 'time': 41.444214896000176, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-10', 'beta': 2.1}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 1257295, 'time': 30.944257451999874, 'reported_time': 2.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-10', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1257295, 'time': 41.42393485299999, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-10', 'beta': 2.1}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 1257295, 'time': 30.81379731600009, 'reported_time': 2.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-10', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1257295, 'time': 40.21758167999997, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-10', 'beta': 2.1}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 1257295, 'time': 30.78305605300011, 'reported_time': 2.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-10', 'beta': 2.1}, {'algorithm': 'NuMDS', 'result': 1257295, 'time': 40.54507771800036, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_1_g-10', 'beta': 2.1}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 527500, 'time': 66.41560149199995, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-4', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 526656, 'time': 38.89904679100027, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-4', 'beta': 2.7}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 527426, 'time': 66.42685576400027, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-4', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 526656, 'time': 38.776856424000016, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-4', 'beta': 2.7}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 527343, 'time': 64.24486302300011, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-4', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 526656, 'time': 34.81959838800003, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-4', 'beta': 2.7}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 527238, 'time': 64.41008124699965, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-4', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 526656, 'time': 33.179077255000266, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-4', 'beta': 2.7}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 527353, 'time': 65.18054878900011, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-4', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 526656, 'time': 33.52072829300005, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-4', 'beta': 2.7}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 529507, 'time': 66.31795040099996, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-5', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528826, 'time': 38.51142216299968, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-5', 'beta': 2.7}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 529630, 'time': 65.99100448299987, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-5', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528826, 'time': 44.710073212000225, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-5', 'beta': 2.7}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 529652, 'time': 65.77673951600036, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-5', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528826, 'time': 36.186898993999876, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-5', 'beta': 2.7}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 529570, 'time': 64.85779261800008, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-5', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528826, 'time': 33.467296628999975, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-5', 'beta': 2.7}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 529492, 'time': 64.87808564399984, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-5', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528826, 'time': 32.55714927300005, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-5', 'beta': 2.7}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 526328, 'time': 66.4207763229997, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-6', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 525697, 'time': 36.54077224099956, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-6', 'beta': 2.7}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 526389, 'time': 66.95750112299993, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-6', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 525697, 'time': 47.594159953000144, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-6', 'beta': 2.7}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 526511, 'time': 64.49434799099981, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-6', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 525697, 'time': 34.34852717499962, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-6', 'beta': 2.7}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 526368, 'time': 66.03230968399976, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-6', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 525697, 'time': 33.37465862399995, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-6', 'beta': 2.7}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 526406, 'time': 64.8152504069999, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-6', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 525697, 'time': 32.626813588000005, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-6', 'beta': 2.7}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 520537, 'time': 62.74902271299925, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-7', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 519809, 'time': 38.95004772299944, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-7', 'beta': 2.7}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 520398, 'time': 63.55794203299956, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-7', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 519809, 'time': 42.4517542349995, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-7', 'beta': 2.7}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 520538, 'time': 64.60348136199991, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-7', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 519809, 'time': 34.896898636000515, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-7', 'beta': 2.7}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 520460, 'time': 63.897095117999925, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-7', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 519809, 'time': 33.905309380999824, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-7', 'beta': 2.7}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 520470, 'time': 63.9861931559999, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-7', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 519809, 'time': 34.00146647800011, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-7', 'beta': 2.7}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 525764, 'time': 66.99709375400016, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-8', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 525071, 'time': 34.789341654000054, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-8', 'beta': 2.7}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 525757, 'time': 67.40121224799987, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-8', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 525071, 'time': 34.029252885999995, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-8', 'beta': 2.7}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 525658, 'time': 65.01017149600011, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-8', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 525071, 'time': 34.65356790499936, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-8', 'beta': 2.7}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 525710, 'time': 65.10858657500012, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-8', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 525071, 'time': 32.871738607000225, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-8', 'beta': 2.7}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 525681, 'time': 65.57306681299997, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-8', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 525071, 'time': 33.01339892899978, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-8', 'beta': 2.7}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 529729, 'time': 65.30887876400084, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-9', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528984, 'time': 33.93523944200024, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-9', 'beta': 2.7}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 529713, 'time': 65.14861452099922, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-9', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528984, 'time': 34.274140496000655, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-9', 'beta': 2.7}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 529835, 'time': 65.66047519899985, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-9', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528984, 'time': 35.529648266999175, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-9', 'beta': 2.7}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 529651, 'time': 66.47438188000069, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-9', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528984, 'time': 33.85851463000017, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-9', 'beta': 2.7}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 529782, 'time': 65.21865326900024, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-9', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528984, 'time': 34.15424833100042, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-9', 'beta': 2.7}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 529165, 'time': 66.41841776599995, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-10', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528494, 'time': 32.32395053900018, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-10', 'beta': 2.7}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 529096, 'time': 65.1575455759994, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-10', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528494, 'time': 32.7593268010005, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-10', 'beta': 2.7}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 529183, 'time': 65.1494371509998, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-10', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528494, 'time': 34.44685594099974, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-10', 'beta': 2.7}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 529179, 'time': 65.84444633600015, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-10', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528494, 'time': 33.64743885699954, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-10', 'beta': 2.7}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 529170, 'time': 66.09722081000018, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-10', 'beta': 2.7}, {'algorithm': 'NuMDS', 'result': 528494, 'time': 34.1453090039995, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_7_g-10', 'beta': 2.7}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 589978, 'time': 64.33345702999941, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-4', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585428, 'time': 36.42042294000021, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-4', 'beta': 3.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 590571, 'time': 62.98461854600009, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-4', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585428, 'time': 56.6215121260002, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-4', 'beta': 3.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 590351, 'time': 63.61657164999997, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-4', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585428, 'time': 38.46424796100018, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-4', 'beta': 3.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 590059, 'time': 63.973073520999606, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-4', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585428, 'time': 34.192340980000154, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-4', 'beta': 3.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 589986, 'time': 62.022635645000264, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-4', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585428, 'time': 33.4313755080002, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-4', 'beta': 3.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 590799, 'time': 63.79318672199952, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-5', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586023, 'time': 47.48233416199946, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-5', 'beta': 3.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 590546, 'time': 64.70803465400058, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-5', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586023, 'time': 51.95289915600006, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-5', 'beta': 3.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 590775, 'time': 62.13757106999947, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-5', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586023, 'time': 34.474012746999506, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-5', 'beta': 3.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 590518, 'time': 61.65297289800037, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-5', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586023, 'time': 34.07810572299968, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-5', 'beta': 3.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 590685, 'time': 62.437946105000265, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-5', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586023, 'time': 34.65076302899979, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-5', 'beta': 3.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 589882, 'time': 65.89006600599987, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-6', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584916, 'time': 37.194914175999656, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-6', 'beta': 3.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 589467, 'time': 63.32879980600046, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-6', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584916, 'time': 42.17343922599957, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-6', 'beta': 3.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 589566, 'time': 62.813682164000056, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-6', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584916, 'time': 35.16635096800019, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-6', 'beta': 3.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 589537, 'time': 63.59101388699946, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-6', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584916, 'time': 34.02442348999921, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-6', 'beta': 3.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 589448, 'time': 62.621797925000465, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-6', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584916, 'time': 34.046745671999815, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-6', 'beta': 3.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 590158, 'time': 65.20925990199976, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-7', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585734, 'time': 35.021321965000425, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-7', 'beta': 3.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 590217, 'time': 62.11282241800018, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-7', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585734, 'time': 35.000284862000626, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-7', 'beta': 3.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 590189, 'time': 61.032386077999945, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-7', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585734, 'time': 35.20380657199985, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-7', 'beta': 3.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 590306, 'time': 61.84151888999986, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-7', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585734, 'time': 35.10880013899987, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-7', 'beta': 3.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 590286, 'time': 61.674939111999265, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-7', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 585734, 'time': 34.42297254100049, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-7', 'beta': 3.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 589444, 'time': 63.33916230899922, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-8', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584908, 'time': 35.8986196800015, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-8', 'beta': 3.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 589439, 'time': 62.84211383100046, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-8', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584908, 'time': 36.39272840299964, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-8', 'beta': 3.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 589546, 'time': 62.927421230999244, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-8', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584908, 'time': 35.74502516099892, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-8', 'beta': 3.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 589545, 'time': 62.57452216399906, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-8', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584908, 'time': 33.58277545799865, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-8', 'beta': 3.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 590208, 'time': 66.22457348900025, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-8', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584908, 'time': 33.75679236999895, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-8', 'beta': 3.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 591106, 'time': 62.12199079799939, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-9', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586481, 'time': 34.927962572999604, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-9', 'beta': 3.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 591018, 'time': 62.285726449999856, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-9', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586481, 'time': 35.702124569999796, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-9', 'beta': 3.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 591194, 'time': 61.647507313999085, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-9', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586481, 'time': 34.95254826599921, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-9', 'beta': 3.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 591186, 'time': 62.193581146000724, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-9', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586481, 'time': 33.71113232300013, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-9', 'beta': 3.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 591090, 'time': 61.32079686900033, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-9', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 586481, 'time': 33.86761338600081, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-9', 'beta': 3.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 588879, 'time': 64.42877515500004, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-10', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584414, 'time': 34.80132854199837, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-10', 'beta': 3.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 588950, 'time': 62.70756832400002, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-10', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584414, 'time': 34.198178324000764, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-10', 'beta': 3.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 589350, 'time': 62.519352145000084, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-10', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584414, 'time': 35.162612017000356, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-10', 'beta': 3.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 590183, 'time': 62.80211577400041, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-10', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584414, 'time': 33.955191494000246, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-10', 'beta': 3.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 588977, 'time': 62.20104145499863, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-10', 'beta': 3.4}, {'algorithm': 'NuMDS', 'result': 584414, 'time': 33.730676672999834, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_4_g-10', 'beta': 3.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 614718, 'time': 51.47530919500059, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-1', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 614651, 'time': 40.562526804998924, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-1', 'beta': 2.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 614722, 'time': 48.78849342799731, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-1', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 614651, 'time': 38.544227237001905, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-1', 'beta': 2.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 614699, 'time': 46.32390958399992, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-1', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 614651, 'time': 37.722438141001476, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-1', 'beta': 2.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 614703, 'time': 48.06357613700311, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-1', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 614651, 'time': 38.502473218002706, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-1', 'beta': 2.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 614701, 'time': 47.44393947199933, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-1', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 614651, 'time': 37.64476623600058, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-1', 'beta': 2.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 593831, 'time': 47.108317038997484, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-2', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 593774, 'time': 37.92388490400117, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-2', 'beta': 2.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 593825, 'time': 46.867697688998305, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-2', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 593774, 'time': 40.58591683200211, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-2', 'beta': 2.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 593838, 'time': 47.55187293200288, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-2', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 593774, 'time': 39.18823589800013, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-2', 'beta': 2.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 593827, 'time': 47.08146501800002, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-2', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 593774, 'time': 39.62093438100055, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-2', 'beta': 2.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 593824, 'time': 48.42483973799972, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-2', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 593774, 'time': 39.210547335998854, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-2', 'beta': 2.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 608610, 'time': 47.666545812997356, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-3', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 608522, 'time': 38.76411343200016, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-3', 'beta': 2.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 608569, 'time': 47.10193164700104, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-3', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 608522, 'time': 38.09698199699778, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-3', 'beta': 2.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 608560, 'time': 46.56853255700116, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-3', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 608522, 'time': 43.26553518299988, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-3', 'beta': 2.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 608564, 'time': 49.25278816199716, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-3', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 608522, 'time': 36.14065408899842, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-3', 'beta': 2.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 608581, 'time': 47.39434213899949, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-3', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 608522, 'time': 38.5615856129989, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-3', 'beta': 2.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 540041, 'time': 75.09573654500127, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-1', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 537606, 'time': 38.01112147299864, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-1', 'beta': 3.0}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 539873, 'time': 76.75419288600096, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-1', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 537606, 'time': 35.929861419997906, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-1', 'beta': 3.0}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 540436, 'time': 76.95443234199774, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-1', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 537606, 'time': 36.16038931499861, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-1', 'beta': 3.0}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 540352, 'time': 77.35871033299918, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-1', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 537606, 'time': 37.197503499999584, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-1', 'beta': 3.0}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 540190, 'time': 77.00926821800022, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-1', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 537606, 'time': 36.447687298001256, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-1', 'beta': 3.0}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 543485, 'time': 74.35571532500035, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-2', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 540935, 'time': 35.46927108000091, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-2', 'beta': 3.0}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 543938, 'time': 75.93709195100018, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-2', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 540935, 'time': 36.19865362600103, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-2', 'beta': 3.0}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 543981, 'time': 75.99724602100105, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-2', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 540935, 'time': 36.48894013899917, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-2', 'beta': 3.0}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 543667, 'time': 75.01771455600101, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-2', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 540935, 'time': 37.08306619700306, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-2', 'beta': 3.0}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 543663, 'time': 76.31916256099794, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-2', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 540935, 'time': 37.930076144999475, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-2', 'beta': 3.0}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 547212, 'time': 77.65156773200215, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-3', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 544899, 'time': 35.9549255369966, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-3', 'beta': 3.0}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 547260, 'time': 76.22293909200016, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-3', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 544899, 'time': 36.256451247998484, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-3', 'beta': 3.0}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 547457, 'time': 75.91130237199832, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-3', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 544899, 'time': 37.60854414300047, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-3', 'beta': 3.0}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 547636, 'time': 77.30614288600191, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-3', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 544899, 'time': 38.05555484899742, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-3', 'beta': 3.0}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 547746, 'time': 77.20986801500112, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-3', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 544899, 'time': 37.446566591999726, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-3', 'beta': 3.0}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 612354, 'time': 47.17320561900124, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-4', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 612316, 'time': 38.32188645900169, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-4', 'beta': 2.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 612376, 'time': 46.59403102400029, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-4', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 612316, 'time': 37.397126528001536, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-4', 'beta': 2.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 612354, 'time': 46.57137691800017, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-4', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 612316, 'time': 37.668232126001385, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-4', 'beta': 2.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 612354, 'time': 46.2903417689995, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-4', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 612316, 'time': 37.39041155299856, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-4', 'beta': 2.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 612362, 'time': 48.544210038999154, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-4', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 612316, 'time': 38.01258549600243, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-4', 'beta': 2.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 607734, 'time': 48.75743447200148, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-5', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 607690, 'time': 38.86552781199862, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-5', 'beta': 2.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 607784, 'time': 48.79872769999929, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-5', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 607690, 'time': 37.79770632200234, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-5', 'beta': 2.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 607737, 'time': 48.11664427299911, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-5', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 607690, 'time': 38.34153298700039, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-5', 'beta': 2.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 607749, 'time': 48.910935654999776, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-5', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 607690, 'time': 37.472377193000284, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-5', 'beta': 2.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 607753, 'time': 48.47294207899904, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-5', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 607690, 'time': 39.388710306000576, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-5', 'beta': 2.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 626663, 'time': 47.2901786629991, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-6', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 626583, 'time': 38.16219935800109, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-6', 'beta': 2.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 626644, 'time': 47.93052247699961, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-6', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 626583, 'time': 38.136256772002525, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-6', 'beta': 2.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 626663, 'time': 47.32919405600114, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-6', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 626583, 'time': 39.551830340999004, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-6', 'beta': 2.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 626656, 'time': 46.792384280997794, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-6', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 626583, 'time': 39.97842985900206, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-6', 'beta': 2.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 626645, 'time': 46.59441405100006, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-6', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 626583, 'time': 38.92009184199924, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-6', 'beta': 2.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 619022, 'time': 45.5146592730016, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-7', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 618950, 'time': 36.7868424599983, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-7', 'beta': 2.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 619013, 'time': 46.13234318799732, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-7', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 618950, 'time': 37.34298383499845, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-7', 'beta': 2.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 619006, 'time': 45.97465798800113, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-7', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 618950, 'time': 37.067888314999436, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-7', 'beta': 2.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 619025, 'time': 46.67499509299887, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-7', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 618950, 'time': 36.570758628000476, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-7', 'beta': 2.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 619010, 'time': 47.049835768000776, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-7', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 618950, 'time': 36.72696368900142, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-7', 'beta': 2.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 618726, 'time': 47.09199062300104, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-8', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 618685, 'time': 42.55257372599954, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-8', 'beta': 2.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 618726, 'time': 48.293514068998775, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-8', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 618685, 'time': 38.14554802299972, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-8', 'beta': 2.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 618731, 'time': 46.79331134900349, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-8', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 618685, 'time': 38.52131560499765, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-8', 'beta': 2.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 618754, 'time': 46.91965578699819, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-8', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 618685, 'time': 37.18047207899872, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-8', 'beta': 2.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 618759, 'time': 46.765263954002876, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-8', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 618685, 'time': 37.70010338800057, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-8', 'beta': 2.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 607554, 'time': 47.90455915899656, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-9', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 607503, 'time': 38.67542856, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-9', 'beta': 2.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 607551, 'time': 48.36174134900284, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-9', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 607503, 'time': 37.3683258279998, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-9', 'beta': 2.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 607540, 'time': 47.80485030199998, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-9', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 607503, 'time': 37.25477335100004, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-9', 'beta': 2.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 607556, 'time': 47.89669461700032, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-9', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 607503, 'time': 38.9850562319989, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-9', 'beta': 2.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 607565, 'time': 48.85252983999817, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-9', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 607503, 'time': 38.03520627599937, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-9', 'beta': 2.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 595547, 'time': 47.08356306399946, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-10', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 595496, 'time': 39.151725979998446, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-10', 'beta': 2.4}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 595566, 'time': 50.66450515500037, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-10', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 595496, 'time': 40.15367033400253, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-10', 'beta': 2.4}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 595567, 'time': 47.21357804299987, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-10', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 595496, 'time': 38.944926349002344, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-10', 'beta': 2.4}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 595621, 'time': 47.7342682669987, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-10', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 595496, 'time': 37.815168567998626, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-10', 'beta': 2.4}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 595547, 'time': 48.71212312499847, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-10', 'beta': 2.4}, {'algorithm': 'NuMDS', 'result': 595496, 'time': 39.82819536700117, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-2_4_g-10', 'beta': 2.4}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 544837, 'time': 77.36909603300228, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-4', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 542017, 'time': 37.710386962000484, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-4', 'beta': 3.0}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 544380, 'time': 77.50066226600029, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-4', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 542017, 'time': 36.02794183699734, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-4', 'beta': 3.0}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 544538, 'time': 76.56258658400111, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-4', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 542017, 'time': 35.60020669200094, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-4', 'beta': 3.0}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 545074, 'time': 76.89493307800149, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-4', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 542017, 'time': 37.16329539099752, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-4', 'beta': 3.0}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 545060, 'time': 76.49285170300209, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-4', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 542017, 'time': 36.65946956300104, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-4', 'beta': 3.0}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 543986, 'time': 75.40682991699941, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-5', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 541707, 'time': 35.74066790000143, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-5', 'beta': 3.0}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 544052, 'time': 72.65435199000058, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-5', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 541707, 'time': 35.72239237999747, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-5', 'beta': 3.0}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 544005, 'time': 72.91834488799941, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-5', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 541707, 'time': 35.32888451600229, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-5', 'beta': 3.0}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 544011, 'time': 74.10514440900079, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-5', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 541707, 'time': 36.37997872900087, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-5', 'beta': 3.0}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 544497, 'time': 80.355760319002, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-5', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 541707, 'time': 36.21771531799823, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-5', 'beta': 3.0}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 544152, 'time': 75.97850599799858, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-6', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 541544, 'time': 36.120763183000236, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-6', 'beta': 3.0}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 543894, 'time': 74.69581909399858, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-6', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 541544, 'time': 36.13813386900074, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-6', 'beta': 3.0}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 543816, 'time': 74.72169881399896, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-6', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 541544, 'time': 35.93318932500188, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-6', 'beta': 3.0}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 544009, 'time': 74.96629629499876, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-6', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 541544, 'time': 35.28242489399781, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-6', 'beta': 3.0}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 543839, 'time': 73.99879587600299, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-6', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 541544, 'time': 35.607582287000696, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-6', 'beta': 3.0}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 546422, 'time': 73.55653903400162, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-7', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543976, 'time': 35.72110230399994, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-7', 'beta': 3.0}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 546187, 'time': 70.39753812900017, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-7', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543976, 'time': 33.292454005000764, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-7', 'beta': 3.0}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 546197, 'time': 70.82206969700201, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-7', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543976, 'time': 33.99022420300025, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-7', 'beta': 3.0}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 546232, 'time': 71.31569298199975, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-7', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543976, 'time': 34.331707731998904, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-7', 'beta': 3.0}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 546153, 'time': 70.90858501399998, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-7', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543976, 'time': 34.435470078002254, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-7', 'beta': 3.0}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 545174, 'time': 70.95868332600003, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-8', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543079, 'time': 35.11542393499985, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-8', 'beta': 3.0}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 545526, 'time': 75.38388854100049, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-8', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543079, 'time': 35.963899456000945, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-8', 'beta': 3.0}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 545602, 'time': 74.7625830729994, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-8', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543079, 'time': 37.22262138700171, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-8', 'beta': 3.0}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 545903, 'time': 78.94759063200036, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-8', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543079, 'time': 37.8811950700001, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-8', 'beta': 3.0}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 545624, 'time': 76.92532139399918, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-8', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543079, 'time': 36.61038515999826, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-8', 'beta': 3.0}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 544763, 'time': 75.45525937700222, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-9', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 542274, 'time': 37.138822674998664, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-9', 'beta': 3.0}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 544583, 'time': 76.0630164159993, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-9', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 542274, 'time': 36.131042093998985, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-9', 'beta': 3.0}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 545061, 'time': 75.67151210599695, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-9', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 542274, 'time': 36.77255119399706, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-9', 'beta': 3.0}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 544811, 'time': 75.32033258999945, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-9', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 542274, 'time': 35.53257368499908, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-9', 'beta': 3.0}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 544490, 'time': 75.88254706799853, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-9', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 542274, 'time': 35.588984261001315, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-9', 'beta': 3.0}]
+  running seed=1
+[{'algorithm': 'DemDS', 'result': 546203, 'time': 77.14517812300255, 'reported_time': 10.0, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-10', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543884, 'time': 36.06923955000093, 'reported_time': None, 'seed': 1, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-10', 'beta': 3.0}]
+  running seed=2
+[{'algorithm': 'DemDS', 'result': 546521, 'time': 79.07159068699912, 'reported_time': 10.0, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-10', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543884, 'time': 36.562575156000094, 'reported_time': None, 'seed': 2, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-10', 'beta': 3.0}]
+  running seed=3
+[{'algorithm': 'DemDS', 'result': 546831, 'time': 76.85052858600102, 'reported_time': 10.0, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-10', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543884, 'time': 36.23765605600056, 'reported_time': None, 'seed': 3, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-10', 'beta': 3.0}]
+  running seed=4
+[{'algorithm': 'DemDS', 'result': 546335, 'time': 76.00412302699988, 'reported_time': 10.0, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-10', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543884, 'time': 35.140651466001145, 'reported_time': None, 'seed': 4, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-10', 'beta': 3.0}]
+  running seed=5
+[{'algorithm': 'DemDS', 'result': 546171, 'time': 76.7589798049994, 'reported_time': 10.0, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-10', 'beta': 3.0}, {'algorithm': 'NuMDS', 'result': 543884, 'time': 35.59613291500136, 'reported_time': None, 'seed': 5, 'status': 'ok', 'instance': 'n-10000000_beta-3_0_g-10', 'beta': 3.0}]
